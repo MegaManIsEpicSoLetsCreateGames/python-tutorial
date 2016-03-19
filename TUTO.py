@@ -20,3 +20,12 @@ while i < 20:
 # If you thought "Why not using i++?", here's the answer:
 # In Python are not incrementing or decrementing operators,
 # but +=, -=, *=, /=, ^= and %= exists.
+if input("Number please: ") == 20:
+    print("The number equals 20.")
+else:
+    print("The number doesn't equal 20")
+# I think this syntax is pretty easy.
+#if [condition]:
+#   commands
+#else:
+#   commands
